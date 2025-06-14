@@ -1,9 +1,23 @@
-- 👋 Hi, I’m @bhavy29
-- 👀 I’m interested in DSA
-- 🌱 I’m currently learning PYTHON & C++
+### 👋 Hi there, I’m @bhavy29
 
+- 👨‍💻 I'm currently focused on strengthening my skills in:
+  - **Java**, **C++**
+  - **HTML**, **CSS**
+  - **Data Structures and Algorithms (DSA)**
+- 🌱 Constantly learning and exploring the fundamentals of programming and problem-solving
+- 🚀 Passionate about building a strong foundation in both development and algorithmic thinking
 
-<!---
-bhavy29/bhavy29 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+---
+
+### 🛠️ Tech Stack
+
+- **Languages:** Java, C++, HTML, CSS
+- **Core Focus:** Data Structures and Algorithms (DSA)
+
+---
+
+### 📈 Goals
+
+- Become proficient in object-oriented programming (OOP)
+- Solve 500+ DSA problems
+- Start building full-stack or front-end projects
