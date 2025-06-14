@@ -16,8 +16,3 @@
 
 ---
 
-### 📈 Goals
-
-- Become proficient in object-oriented programming (OOP)
-- Solve 500+ DSA problems
-- Start building full-stack or front-end projects
