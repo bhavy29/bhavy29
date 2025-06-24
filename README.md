@@ -11,9 +11,9 @@
 
 ### 🧠 Currently Learning
 
-- Mastering **Java** and **C++** for both development and DSA
+- Mastering **Java** for both development and DSA
 - Strengthening my **Frontend skills** with **HTML5** and **CSS3**
-- Solving challenges daily from the **Striver DSA Sheet** and **LeetCode**
+- Solving challenges daily from the **LeetCode**
 
 ---
 
